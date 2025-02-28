@@ -44,9 +44,8 @@ Fallback = Fall back!
 Need Drop = Can someone drop me a weapon?
 ```
 
-## 📸 Screenshots  
-https://i.imgur.com/qHJRwHl.png  
-https://i.imgur.com/eViBbtc.png
+![Main Menu](https://i.imgur.com/qHJRwHl.png)  
+![In-Game Example](https://i.imgur.com/eViBbtc.png)
 
 ---
 
